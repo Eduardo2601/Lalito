@@ -20,32 +20,3 @@ TICKETLY - Sistema de Tickets de Soporte
     Categorias: Los usuarios agregar categorias.
     Reportes: Los usuarios pueden generar reportes.
 
-
-
-APOYAME
-Hay muchas formas en las que me puedes apoyar para seguir creando contenido, proyectos y actualizaciones a los sistemas
-
-
-
-	## Mas informacion
-	waptoing7@gmail.com
-
-
-
-
-COMENTARIOS
-Te invito a que dejes un comentario describiendo que tal te pareció el sistema de ticketly con PHP, te lo agradeceré.
-
-
-
-
-INSTALACIÓN Y SOPORTE TÉCNICO
-El sistema de TICKETLY es gratuito y puedes usarlo libremente para uso personal y/o comercial, pero no se brinda soporte gratuito para la instalación del sistema ni Ayuda con errores y problemas reportados. 
-
-Si deseas contratar el servicio de soporte técnico para el sistema de TICKETLY debes enviar un E-mail a: waptoing7@gmail.com, con el asunto "Soporte TICKETLY", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
-
-
-
-
-An production by Abisoft
-http://github.com/amnersaucedososa

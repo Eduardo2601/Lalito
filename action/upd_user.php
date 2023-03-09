@@ -1,6 +1,6 @@
 <?php	
 
-	//upd user by abisoft https://github.com/amnersaucedososa
+	
 	session_start();
 
 	if (empty($_POST['mod_name'])) {

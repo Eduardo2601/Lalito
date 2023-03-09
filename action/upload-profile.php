@@ -1,6 +1,6 @@
 <?php
 
-//upload file by abisoft https://github.com/amnersaucedososa 
+
 include "../config/config.php";
 
 if (isset($_FILES["file"]))

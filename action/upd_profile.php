@@ -1,6 +1,6 @@
 <?php
 
-	//update profile by abisoft https://github.com/amnersaucedososa
+	
 	session_start();
 
 	if (!isset($_SESSION['user_id']) && $_SESSION['user_id']==null) {
